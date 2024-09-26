@@ -1,0 +1,10 @@
+
+Exception: Access violation at address 00403A08 in module 'DelphiDecompiler.exe'. Read of address 3939302C
+Proc Name: CharacterBagEditor._PROC_009F82C4
+Last Instruction: 009F8674   A1E8C19900             call    0099E408
+Current Position: 000F7A84
+
+Exception: Access violation at address 00403A08 in module 'DelphiDecompiler.exe'. Read of address 3939302C
+Proc Name: WareHouseUnit._PROC_009F2819
+Last Instruction: 009F2BD8   A1E8C19900             call    0099E408
+Current Position: 000F1FE8
